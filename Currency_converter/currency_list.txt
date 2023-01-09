@@ -1,0 +1,9 @@
+1 - USD
+2 - GBP
+3 - INR
+4 - EUR
+5 - CHF
+6 - AUD
+7 - SGD
+8 - CNY
+9 - JPY
