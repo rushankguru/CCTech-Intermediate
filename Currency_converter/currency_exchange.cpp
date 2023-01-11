@@ -27,7 +27,7 @@ void display()
         print_currency_list(input);
         cin>>output;
 
-        if (0<output<10)
+        if (0<output<10 && input!=output)
         {
             int count = 1;
             float input_factor, output_factor;
